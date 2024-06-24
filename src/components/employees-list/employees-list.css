@@ -1,0 +1,10 @@
+.list-group {
+    color: aliceblue;
+    margin-top: 10px;
+    background-color: #2196f3;
+    border-radius: 10px;
+    padding: 20px 25px;
+    box-shadow: 10px 5px 16px 4px #495b68ad;
+    display: flex;
+    flex-direction: column;
+}

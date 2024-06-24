@@ -1,0 +1,36 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 5px #fff;
+    padding: 5px 0;
+    align-items: center;
+    text-align: center;
+}
+
+.svgImages {
+    display: flex;
+    justify-content: space-between;
+    width: 300px
+}
+
+svg {
+    height: 25px;
+}
+
+.iconsWrapper {
+    display: flex;
+    gap: 20px;
+}
+
+.icon {
+    background: none;
+    border: none
+}
+
+p {
+    height: 100%;
+}
+
+.list-orange {
+    color: orange;
+}

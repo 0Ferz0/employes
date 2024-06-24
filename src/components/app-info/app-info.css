@@ -1,0 +1,10 @@
+.app-info {
+    background-color: #03A9F4;
+    padding: 20px 40px;
+    color: white;
+}
+
+.app-info_title {
+    margin: 5px;
+    text-align: center;
+}
